@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Animation">
+</Property><Property Name="Solution File" Value="H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.sln">
+</Property><Property Name="User Options File" Value="H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.suo">
+</Property><Property Name="Date" Value="02 March 2012">
+</Property><Property Name="Time" Value="12:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Animation.sln" Description="File successfully backed up as H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Animation.suo" Description="File successfully backed up as H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.suo.old">
+</Event><Event ErrorLevel="0" Project="Animation" Source="Animation.vcproj" Description="Converting project file 'H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Animation" Source="Animation.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Animation" Source="Animation.vcproj" Description="MSB8012: $(TargetPath) ('H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\.\Debug\Animation.exe') does not match the Linker's OutputFile property value '.\Debug/Animation.exe' ('H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Debug/Animation.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Animation" Source="Animation.vcproj" Description="MSB8012: $(TargetPath) ('H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\.\Release\Animation.exe') does not match the Linker's OutputFile property value '.\Release/Animation.exe' ('H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Release/Animation.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Animation" Source="Animation.vcproj" Description="Done converting to new project file 'H:\CGT-2011-TutorialCode\Allegro for CiP\Week 25\Final Example Game\Animation.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Animation" Source="Animation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Animation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Animation.sln" Description="Converted">
+</Event></UpgradeLog>
