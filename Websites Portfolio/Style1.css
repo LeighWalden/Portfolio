@@ -1,0 +1,192 @@
+body
+{
+background-color: #FFFFFF;
+margin: 0;
+font-family: Arial;
+color:#12349F;
+}
+
+a:link{color:#12349F; text-decoration: none;}
+a:visited{color:#12349F; text-decoration: none;}
+a:hover{color:#12349F; text-decoration: none;}
+a:active{color:#12349F; text-decoration: none;}
+
+#Container
+{
+width: 950px;
+margin: 0 auto;
+}
+/*#4D4D4D*/
+
+#Nav
+{
+height: 50px;
+width: 100%;
+background-color: #BBBBBB;
+margin-bottom: 50px;
+}
+#Nav.fixed
+{
+position: fixed;
+top: 0;
+}
+#Nav #inner
+{
+height: 50px;
+width: 950px;
+margin: 0 auto;
+}
+
+#NavLogo
+{
+float: left;
+height: 50px;
+width: 100px;
+margin-right: 200px;
+}
+
+#NavHome
+{
+float: left;
+height: 39px;
+width: 100px;
+text-align: center;
+padding-top: 10px;
+}
+#NavHome:hover
+{
+background-color: #000000;
+}
+
+#NavHTML
+{
+float: left;
+height: 39px;
+width: 100px;
+margin-left: 10px;
+text-align: center;
+padding-top: 10px;
+}
+#NavHTML:hover
+{
+background-color: #000000;
+}
+
+#NavJS
+{
+float: left;
+height: 39px;
+width: 100px;
+margin-left: 10px;
+text-align: center;
+padding-top: 10px;
+}
+#NavJS:hover
+{
+background-color: #000000;
+}
+
+
+#NavPort
+{
+float: left;
+height: 39px;
+width: 100px;
+margin-left: 10px;
+text-align: center;
+padding-top: 10px;
+}
+
+#NavPort:hover
+{
+background-color: #000000;
+}
+
+
+#SideBar
+{
+height: 200px;
+width: 100px;
+margin-top: 100px;
+margin-left: 10px;
+/*background-color: #BBBBBB;*/
+float: left;
+position: relative;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+#SideBar #inner
+{
+height: 100px;
+width: 100px;
+margin: 0 auto;
+
+}
+
+#Personal
+{
+height: 50px;
+width: 100px;
+}
+
+#Personal:hover
+{
+background-color: #000000;
+}
+
+#Education
+{
+height: 50px;
+width: 100px;
+}
+
+#Education:hover
+{
+background-color: #000000;
+}
+
+#Hobbies
+{
+height: 50px;
+width: 100px;
+}
+#Hobbies:hover
+{
+background-color: #000000;
+}
+
+#Referees
+{
+height: 50px;
+width: 100px;
+}
+
+#Referees:hover
+{
+background-color: #000000;
+}
+
+
+
+#Content
+{
+height: 500px;
+width: 950px;
+background-color: #BBBBBB;
+text-align: center;
+float: right;
+position: relative;
+}
+
+#Info
+{
+height: 50px;
+width: 100%;
+text-align: center;
+background-color: #BBBBBB;
+color:#12349F;
+position: relative;
+bottom: 0;
+margin-top: 50px;
+}
