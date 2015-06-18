@@ -105,7 +105,7 @@ namespace GranthamColour
             
                 if (!Red)        //tests if the colour is purple
                 {                   //if its not, set it to purple
-                    myBrush.Color = Color.Red;  //setting the colour to purple
+                    myBrush.Color = Color.Red;  //setting the colour to red
                     Red = true;  //sets the bool to true
                 }
 
@@ -126,7 +126,7 @@ namespace GranthamColour
         {
             if (!Blue)        //tests if the colour is purple
             {                   //if its not, set it to purple
-                myBrush.Color = Color.Blue;  //setting the colour to purple
+                myBrush.Color = Color.Blue;  //setting the colour to blue
                 Blue = true;  //sets the bool to true
             }
 
@@ -141,7 +141,7 @@ namespace GranthamColour
         {
             if (!Green)        //tests if the colour is purple
             {                   //if its not, set it to purple
-                myBrush.Color = Color.Green;  //setting the colour to purple
+                myBrush.Color = Color.Green;  //setting the colour to green
                 Green = true;  //sets the bool to true
             }
 
@@ -156,7 +156,7 @@ namespace GranthamColour
         {
             if (!Yellow)        //tests if the colour is purple
             {                   //if its not, set it to purple
-                myBrush.Color = Color.Yellow;  //setting the colour to purple
+                myBrush.Color = Color.Yellow;  //setting the colour to yellow
                 Yellow = true;  //sets the bool to true
             }
 
@@ -169,12 +169,32 @@ namespace GranthamColour
 
         private void button6_Click(object sender, EventArgs e)
         {
+            if (!White)
+            {
+            myBrush.Color = Color.White;  //setting the colour to white
+                White = true;  //sets the bool to true
+            }
 
+            else                //otherwise
+            {
+                myBrush.Color = Color.Black;   //set the colour to black
+                White = false;             //Set the bool to false
+            }
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
+            if (!Black)
+            {
+                myBrush.Color = Color.Black;  //setting the colour to Black
+                Black = true;  //sets the bool to true
+            }
 
+            else                //otherwise
+            {
+                myBrush.Color = Color.Black;   //set the colour to black
+                Black = false;             //Set the bool to false
+            }
         }
             
             
